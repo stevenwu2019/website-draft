@@ -1,2 +1,2 @@
 # stevenwu2019.github.io
-Personal website 
+1st draft of personal website 
